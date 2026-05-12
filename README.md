@@ -2,7 +2,7 @@
 
 # `NOL` - NOR Logic Board
 
-The `NOL` is a board with an [CD4001](#additional-information) or any other 4-channel `NOR` gate driver. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to `NOR` signals from buttons, switches or any other logic board.
+The `NOL` is a board with an [CD4001](#additional-information) or any other 4-channel `NOR` gate driver that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to `NOR` signals from buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
